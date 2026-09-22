@@ -10,7 +10,7 @@ public class TypeCasting {
 
 
         //Implicit type cating
-        int x=3;
+        int x=7;
 
 
         //Explicit type casting
